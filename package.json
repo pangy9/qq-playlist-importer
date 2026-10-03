@@ -1,0 +1,15 @@
+{
+  "name": "qq-playlist-importer",
+  "version": "0.3.6",
+  "private": true,
+  "description": "按分类 CSV 逐首导入歌曲到 QQ 音乐歌单的 Tampermonkey 脚本",
+  "author": "pangy9",
+  "license": "MIT",
+  "files": [
+    "qq-playlist-importer.user.js",
+    "qq-playlist-importer.en.user.js",
+    "README.md",
+    "package.json",
+    "LICENSE"
+  ]
+}
